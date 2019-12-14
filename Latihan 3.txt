@@ -1,0 +1,9 @@
+Untuk latihan Pemograman 3
+Pengenalan 2 Bahasa
+- kotlin
+- Syntax
+untuk login 
+git config --global user.name "Junjun-1617"
+git init
+git status
+git add .
